@@ -1,2 +1,2 @@
-# Twitter-setiment-analysis
-Interactive Sentiment Analysis of Twitter user Tweets (Supervised Learning, NLP)
+# Tweet-sentiment-analysis
+Analyzing tweet sentiments using Spacy through an interactive webapp created using streamlit
